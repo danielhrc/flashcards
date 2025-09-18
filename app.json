@@ -12,6 +12,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "plugins": ["@prisma/react-native"],
     "ios": {
       "supportsTablet": true
     },
